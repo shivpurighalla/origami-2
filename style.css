@@ -1,0 +1,17 @@
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+.menu{
+    display:flex;
+    justify-content:space-evenly;
+    background-color:brown;
+    font-size:20px;
+    color:white;
+}
+body{
+    background-color: whitesmoke;
+    color:tomato;
+    font-size: 15px;
+}
